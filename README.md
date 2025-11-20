@@ -5,7 +5,6 @@
 
 ![image](https://github.com/user-attachments/assets/2a54e9d1-e42f-466d-9013-84fb7a9e9626)
 
+<img width="484" height="358" alt="image" src="https://github.com/user-attachments/assets/91a8b2bd-15b7-40ec-b95c-44a67021d84f" />
+<img width="266" height="331" alt="image" src="https://github.com/user-attachments/assets/674d2b95-8498-4049-bad8-c31f2fa5a065" />
 
-
-
-<iframe width="672" height="378" src="https://www.youtube.com/embed/E1ShWGttZR0" title="If you&#39;re ambitious but lazy, please watch this." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
