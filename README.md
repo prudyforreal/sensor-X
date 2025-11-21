@@ -15,7 +15,7 @@ BENEFITS/ USES
 •	It can be placed in restricted areas to detect unauthorized entry after hours.
 •	Could trigger an alarm or notify security personnel.    
 
-video representation:  https://youtu.be/_QQZvpt4m_s?si=M-A7INtbZEAmI0Vl
+video representation: https://youtu.be/_QQZvpt4m_s?si=M-A7INtbZEAmI0Vl 
 
 
 
